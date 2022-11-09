@@ -1,0 +1,24 @@
+html{
+   box-sizing: border-box;
+  
+}
+
+html * {
+  box-sizing: inherit;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+ 
+}
+
+
+.imagen-rami{
+  background-color: rgba(0,0,0,0.7);
+  height: 900px;
+  max-width: 100%;
+  filter:brightness(0.6);
+ 
+}
+
+
